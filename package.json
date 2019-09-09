@@ -1,0 +1,16 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "Typescript template",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
+  "author": "Michele Patrassi",
+  "license": "ISC",
+  "devDependencies": {
+    "tslint": "^5.19.0",
+    "typescript": "^3.6.2"
+  },
+  "dependencies": {}
+}
